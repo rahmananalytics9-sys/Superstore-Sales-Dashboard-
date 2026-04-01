@@ -1,5 +1,8 @@
 # Superstore-Sales-Dashboard-
+Superstore Sales Dashboard 📊
+Project Overview
 This project analyzes retail sales data from a Superstore dataset to understand sales performance, customer behavior, and regional trends. The dashboard provides business insights that help identify high-performing products, profitable segments, and seasonal trends.
+/br
 Tools Used
 •	Power BI
 •	SQL
@@ -55,3 +58,4 @@ The Superstore Sales Dashboard provides valuable insights into sales performance
 Author
 Abdul Rahman
 Data Analyst | Power BI | SQL | Python
+
